@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The code involves three main groups of predictors:
+My code involves three main groups of predictors:
 
 1. **Financial Performance Metrics**
 2. **Market Metrics**
