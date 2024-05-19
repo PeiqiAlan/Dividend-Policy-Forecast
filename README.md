@@ -28,7 +28,7 @@ All companies within the S&P500 index.
 # Feature Engineering
 
 **Sector Ranking:**
-- Assigns a ranking from 0-100 to each sector without any consideration of financial background.
+- Assigns a ranking from 0-100 to each sector with consideration of financial background.
 - We grouped the dataframe by sector and industry.
 - Higher sector ranking indicates a higher PE ratio.
 
