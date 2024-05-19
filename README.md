@@ -11,6 +11,38 @@ The goal of this project is to build and optimize a machine learning model that 
 # Project Scope
 All companies within S&P500 index.
 
+# Contributions
+Peiqi Liu
+Tobi Oladimeji
+Tuyi Chen
+
+# Problem Statement:
+Need to predict dividend policy changes for companies within the S&P500 index
+Aim is to assist clients in making better investment decisions
+
+# Solution:
+Develop a comprehensive Object-Oriented Programming (OOP) pipeline
+Allow clients to customize data input
+Output predictions of dividend policy changes using the best model
+
+# Value Proposition:
+Empower clients to make informed investment decisions based on predicted dividend policy changes
+Provide a customizable and user-friendly pipeline for data input and prediction
+
+# Feature Engineering
+
+Sector Ranking:
+Assigns a ranking from to each sector with consideration of financial background.
+We grouped the dataframe by sector and industry 
+Higher sector ranking indicates a higher PE ratio.
+
+Group 1: Financial Performance Metrics:
+Dividend Payout Ratio
+Return on Equity (ROE)
+
+Group 2: Market Metrics:
+Dividend Yield
+
 # Data to be used
 TBA
 
@@ -29,3 +61,15 @@ The third stage is the official data pipeline, which consists of data preprocess
 
 The conclusions&outputs will be given to the clients. A feedback loop is in place so that if the client wishes to predict the policy changes of new companies, relevant data will be inputed as well.
 
+# Future Expansions
+Regression Models to Predict Numerical Dividend Share Rates
+More Comprehensive Data Extraction for Scant Classes
+Scalability: Cloud Services, Function Expansions
+
+# Usage
+To use this project, follow these steps:
+
+Clone the repository to your local machine.
+Install the necessary dependencies.
+Open the notebook files in Jupyter Notebook or any compatible environment.
+Run the code cells to reproduce the analysis and insights.
