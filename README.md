@@ -8,9 +8,9 @@ The goal of this project is to build and optimize a machine learning model that 
 All companies within the S&P500 index.
 
 # Contributions
-• Peiqi Liu
-• Tobi Oladimeji
-• Tuyi Chen
+- Peiqi Liu
+- Tobi Oladimeji
+- Tuyi Chen
 
 # Problem Statement
 - Need to predict dividend policy changes for companies within the S&P500 index.
