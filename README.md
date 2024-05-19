@@ -1,10 +1,6 @@
 # Dividend-Policy-Forecast
 This is the github repository for the freelance project - Dividend Policy Forecast
 
-# Success Metrics
-In Progress
-The understanding of the group is that the success metrics/KPI of this project should be set not only in terms of technical performance or model accuracies, but in business contexts as well. Considerations must be given to the overall economy, including and not limited to: budgets, scalability, etc.
-
 # Project Objectives
 The goal of this project is to build and optimize a machine learning model that would predict if a particular company would cut its dividend shares at a particular time. 
 
