@@ -1,2 +1,6 @@
-Simply download all codes and run the main pipeline on console
-You may need to update the location of the data "WILL FIX ASAP"
+RUN INSTRUCTION:
+
+Simply download everything and execute Python Main_Pipeline.py in your environment
+
+You might need to update the location of some data files based on your own local machines
+
